@@ -1,0 +1,1 @@
+def naiveExactMatching(p, t):
