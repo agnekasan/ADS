@@ -12,4 +12,4 @@ def word_counter(s):
     for key, value in sorted_words.items():
         print(key, value)
 
-word_counter("We tried list and we tried discts also we tried Zen")
+word_counter("We tried list and we tried dicts also we tried Zen")
